@@ -14,4 +14,4 @@ class Config(object):
     MYSQL_HOST = 'localhost'
     MYSQL_USER = 'root'
     MYSQL_PASSWORD = 'Abc#1234'
-    MYSQL_DB = 'MyDB'
+    MYSQL_DB = 'db'
